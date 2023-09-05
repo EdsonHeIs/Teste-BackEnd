@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.BackEnd.Api", "Teste.BackEnd.Api\Teste.BackEnd.Api.csproj", "{07D57322-4423-44EE-8026-8D12979EC704}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BackEnd.Api", "Teste.BackEnd.Api\Teste.BackEnd.Api.csproj", "{07D57322-4423-44EE-8026-8D12979EC704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.BackEnd.Shared", "Teste.BackEnd.Shared\Teste.BackEnd.Shared.csproj", "{94F9CA16-1E63-43EA-AFCF-27306A7A825E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BackEnd.Shared", "Teste.BackEnd.Shared\Teste.BackEnd.Shared.csproj", "{94F9CA16-1E63-43EA-AFCF-27306A7A825E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.BackEnd.Application", "Teste.BackEnd.Application\Teste.BackEnd.Application.csproj", "{F0BB26C2-4BA8-4C90-8638-706D5B016DDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BackEnd.Application", "Teste.BackEnd.Application\Teste.BackEnd.Application.csproj", "{F0BB26C2-4BA8-4C90-8638-706D5B016DDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.BackEnd.Tests", "Teste.BackEnd.Tests\Teste.BackEnd.Tests.csproj", "{7AAFD37A-567C-4A0F-9E4E-36AB1374C11F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BackEnd.Tests", "Teste.BackEnd.Tests\Teste.BackEnd.Tests.csproj", "{7AAFD37A-567C-4A0F-9E4E-36AB1374C11F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
